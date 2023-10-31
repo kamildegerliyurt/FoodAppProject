@@ -8,6 +8,7 @@ const button = props.buttonNameData
 const buttonLogin = props.handleButtonData
 const disable = props?.isDisable
 
+
   return (
     <Pressable 
     style={({pressed})=> [{backgroundColor: props.isDisable ? "gray" : (pressed ? "gray" : "tomato")},styles.buttonContainer]}
@@ -22,7 +23,6 @@ export default Button
 
 const styles = StyleSheet.create({
     buttonContainer: {
-        borderWidth:2,
         width:"100%",
         marginVertical:5,
         paddingVertical:10,
