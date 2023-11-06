@@ -11,7 +11,7 @@ const name = props.data.name
 const rating = props.data.rating
 const review = props.data.review_count
 
-//-----------------------------------------
+
 const navigation = useNavigation();
 
 const handleButton = ()=> {
@@ -20,7 +20,7 @@ const handleButton = ()=> {
         data: props.data
     })
 }
-//-----------------------------------------
+
 
   return (
     <Pressable style={({pressed})=> [{transform: [{translateY: pressed ? 3 : 0}]}]}
