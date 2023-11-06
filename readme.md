@@ -5,7 +5,7 @@
 <a href="https://medium.com/@degerliyurtkamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@degerliyurtkamil" height="30" width="40" /></a>
 </p>
 
-                                                                                        - 📫 How to reach me **degerliyurtkamil@gmail.com**
+- 📫 How to reach me **degerliyurtkamil@gmail.com**
 
 
 <p align="center">
