@@ -2,4 +2,5 @@ npm install @reduxjs/toolkit react-redux @react-navigation/native @react-navigat
 
 
 
-![LoginScreen](https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/dbf18bbb-c867-4661-a77f-6a375cb12d9b) width="200" height="400"
+
+＜img src="(https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/dbf18bbb-c867-4661-a77f-6a375cb12d9b)" width="500" height="300"＞
