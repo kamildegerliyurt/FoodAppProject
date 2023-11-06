@@ -15,18 +15,18 @@ const [password, setPassword]= useState("")
 const [handleErrorMessage, setHandleErrorMessage]= useState("")
 
 
-//-----------------------------------------------------------------
+
 const dispatch = useDispatch();
 
 const handleOnPress = ()=> {
   dispatch(login({email, password}))
 }
-//-----------------------------
+
 useEffect(() => {
   dispatch(autoLogin())
 }, [])
 
-//-----------------------------------------------------------------
+
 const { errorMessage, isLoading } = useSelector((state)=> state.user)
 
 useEffect(() => {
@@ -40,13 +40,12 @@ useEffect(() => {
 
 
 }, [errorMessage])
-//-----------------------------------------------------------------
+
 
 if(isLoading) {
   return <Loading />
 }
 
-//-----------------------------------------------------------------
 
 
   return (
