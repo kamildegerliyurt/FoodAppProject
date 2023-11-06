@@ -9,9 +9,8 @@
 
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/355edbd3-9f63-4def-b9f6-6464750f3cd4">
+  <img width="460" height="300" src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/fa575d1c-4cbb-4df0-ae2b-9426b414d019">
 </p>
-
 
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/dbf18bbb-c867-4661-a77f-6a375cb12d9b" width="200" height="400" />
 
