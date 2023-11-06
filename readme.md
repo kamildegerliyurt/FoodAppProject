@@ -13,3 +13,5 @@ npm install @reduxjs/toolkit react-redux @react-navigation/native @react-navigat
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/91ba374d-7b05-4a41-8a85-dc55ac2c5258" width="200" height="400" />
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/e40878dc-ca17-481f-babc-15107b188821" width="200" height="400" />
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/49adc936-5e2c-417b-93f3-448c6d01c227" width="200" height="400" />
+
+<img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/22c3c5f7-abf9-4567-93b8-0f329f1c7719" width="200" height="400" />
