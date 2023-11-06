@@ -1,6 +1,3 @@
-- 📫 How to reach me **degerliyurtkamil@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamil-degerliyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kamil-degerliyurt" height="30" width="40" /></a>
@@ -8,7 +5,7 @@
 <a href="https://medium.com/@degerliyurtkamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@degerliyurtkamil" height="30" width="40" /></a>
 </p>
 
-
+- 📫 How to reach me **degerliyurtkamil@gmail.com**
 
 
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/dbf18bbb-c867-4661-a77f-6a375cb12d9b" width="200" height="400" />
