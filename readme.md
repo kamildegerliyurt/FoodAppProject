@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="-ae2b-9426b414d019">
+  <img width="460" height="300" src="">
 </p>
 
 
