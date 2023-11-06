@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-
-
-  
+  - 📫 How to reach me **degerliyurtkamil@gmail.com**
 </p>
 
 
