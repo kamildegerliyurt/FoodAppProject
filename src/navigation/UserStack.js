@@ -39,7 +39,7 @@ const UserStack = () => {
         <Tab.Screen 
             name='Detail' 
             component={Detail}
-            options={{tabBarStyle:{display:'none'},tabBarIcon:({focused})=> (<Ionicons name="restaurant-outline" 
+            options={{tabBarIcon:({focused})=> (<Ionicons name="restaurant-outline" 
                                                                                        size={24} 
                                                                                        color={focused ? "tomato" : "white"}/>)}}/>
         <Tab.Screen 
