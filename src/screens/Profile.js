@@ -6,13 +6,12 @@ import {logout} from "../redux/userSlice"
 
 const Profile = () => {
 
-//-------------------------------
 const dispatch = useDispatch();
 
 const handleLogOut= ()=> {
   dispatch(logout())
 }
-//-------------------------------
+
 
   return (
     <View style={styles.logoutContainer}>
