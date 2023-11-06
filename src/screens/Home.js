@@ -17,7 +17,6 @@ const dispatch = useDispatch();
 const {data, isDataFetched} = useSelector((state)=> state.data)
 
 useEffect(() => {
-  // Eğer kullanıcı login yaptıktan sonra Yelp API den veri çekilmediyse istek gönder.
   if(!isDataFetched){
     dispatch(fetchDataAsync());
   }
