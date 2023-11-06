@@ -9,17 +9,17 @@ import { register} from "../redux/userSlice"
 import {Loading, SignUpButton} from "../components/"
 
 const Register = ({navigation}) => {
-//------------------------------------------------------
+
 const [email, setEmail] = useState('')
 const [password, setPassword] = useState('')
 const [confirmPassword, setConfirmPassword] = useState('')
 const [handleErrorMessage, setHandleErrorMessage] = useState(errorMessage)
 const [isButtonDisable, setIsButtonDisable] = useState(false)
-//------------------------------------------------------
+
 const dispatch = useDispatch();
 
 const {errorMessage, isLoading} = useSelector((state)=> state.user)
-//------------------------------------------------------
+
 useEffect(() => {
   const handleConfirmPassword =()=>{
     if( email.length === 0 
@@ -34,18 +34,17 @@ useEffect(() => {
   
   handleConfirmPassword()
 }, [password, confirmPassword])
-//------------------------------------------------------
+
 
 const handleRegister = ()=>{
   dispatch(register({email, password}))
 }
 
-//------------------------------------------------------
+
 
 if(isLoading){
   return <Loading />
 }
-//------------------------------------------------------
 
 
 
