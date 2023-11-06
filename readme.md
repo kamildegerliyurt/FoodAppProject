@@ -5,16 +5,12 @@
 <a href="https://medium.com/@degerliyurtkamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@degerliyurtkamil" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **degerliyurtkamil@gmail.com**
 
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/fa575d1c-4cbb-4df0-ae2b-9426b414d019">
 </p>
 
-<p align="center">
-  - 📫 How to reach me **degerliyurtkamil@gmail.com**
-</p>
 
 
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/dbf18bbb-c867-4661-a77f-6a375cb12d9b" width="200" height="400" />
