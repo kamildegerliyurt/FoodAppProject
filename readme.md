@@ -9,7 +9,7 @@
 
 - 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/355edbd3-9f63-4def-b9f6-6464750f3cd4">
+  <img width="500" height="300" src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/355edbd3-9f63-4def-b9f6-6464750f3cd4">
 </p>
 
 
