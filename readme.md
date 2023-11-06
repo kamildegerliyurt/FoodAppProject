@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **degerliyurtkamil@gmail.com**
 
+- 
+<img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/2e5c5edf-02ad-479f-b11a-f5560e4858de" width="200" height="400" />
+
 
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/dbf18bbb-c867-4661-a77f-6a375cb12d9b" width="200" height="400" />
 
