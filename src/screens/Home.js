@@ -12,10 +12,10 @@ import { Pressable } from 'react-native'
 const Home = () => {
 
 const [filteredData, setFilteredData] = useState([])
-//----------------------------------------------------------------
+
 const dispatch = useDispatch();
 const {data, isDataFetched} = useSelector((state)=> state.data)
-//----------------------------------------------------------------
+
 useEffect(() => {
   // Eğer kullanıcı login yaptıktan sonra Yelp API den veri çekilmediyse istek gönder.
   if(!isDataFetched){
@@ -23,7 +23,7 @@ useEffect(() => {
   }
 
 }, [dispatch, isDataFetched])
-//----------------------------------------------------------------
+
 const filterByCategory = (categoryName)=>{
 
   return data.filter(item => {
@@ -36,14 +36,14 @@ const filterByCategory = (categoryName)=>{
   })
 
 }
-//----------------------------------------------------------------
+
 const handleCategoryFilter =(value)=>{
     
   const result = filterByCategory(value)
    setFilteredData(result)
    
 }
-//----------------------------------------------------------------
+
 
   return (
     <SafeAreaView style={styles.container}>
