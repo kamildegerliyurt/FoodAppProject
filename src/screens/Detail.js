@@ -4,11 +4,11 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 
 const Detail = ({navigation, route}) => {
 
-//---------------------------------- 
+
 const total = route.params.data
 const imageURI = total.image_url
 const restaurantName = total.name
-//---------------------------------- 
+
 
 const address1 = total.location.display_address[0]
 const address2 = total.location.display_address[1]

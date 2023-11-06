@@ -14,17 +14,17 @@ const [isButtonDisable, setIsButtonDisable]= useState(true)
 const [handleErrorMessage, setHandleErrorMessage]= useState(errorMessage)
 const [email, setEmail]= useState("")
 
-//----------------------------------------------------------
+
 const dispatch = useDispatch();
 const {errorMessage, isLoading} = useSelector((state)=> state.user)
-//----------------------------------------------------------
+
 
 
 const handleButtonData = ()=> {
   dispatch(resetPassword(email))
 }
-//----------------------------------------------------------
-// eğer email'ın uzunlugu 0'a esıt degıl ıse "setısbutonDısable(false)" aksı takdırde (true)
+
+
 useEffect(() => {
   if(email.length !== 0 ){
     setIsButtonDisable(false)
@@ -34,7 +34,7 @@ useEffect(() => {
 
 }, [email])
 
-//----------------------------------------------------------
+
 
 if(isLoading){
   return <Loading />
