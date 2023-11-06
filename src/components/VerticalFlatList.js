@@ -13,7 +13,7 @@ const review = props.data?.review_count
 const category = props.data?.categories[0].title
 const price = props.data?.price
 
-//-----------------------------------
+
 
 const navigation = useNavigation();
 
@@ -23,7 +23,7 @@ const handleButtonData = ()=> {
         data: props.data
     })
 }
-//-----------------------------------
+
 
 
   return (
